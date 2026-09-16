@@ -91,10 +91,4 @@ ctest --test-dir build --output-on-failure
 - Metrics for queue length and execution time
 - Logging and tracing
 
-## Resume description
 
-**Multithreaded Task Scheduler | C++ | Linux | OOP | Multithreading**
-
-- Developed a multithreaded task scheduler using C++17 and Linux.
-- Implemented a fixed-size thread pool, thread-safe task queue, mutexes, and condition variables for concurrent task execution.
-- Used templates, `std::future`, RAII, and graceful shutdown to build reusable and reliable software components.
